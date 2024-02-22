@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+      "@assets": ["./app/assets"],
+      "@components": ["./app/components"],
+      "@components/*": ["./app/components/*"],
+      "@config": ["./app/config"],
+      "@config/*": ["./app/config/*"],
+      "@screens": ["./app/screens"],
+      "@screens/*": ["./app/screens/*"],
+      "@utils": ["./app/utils"],
+      "@utils/*": ["./app/utils/*"],
+      "@redux": ["./app/redux"],
+      "@redux/*": ["./app/redux/*"],
+      "@libs/": ["./app/libs"],
+      "@libs/*": ["./app/libs/*"],
+      "@lang/": ["./app/lang"],
+      "@lang/*": ["./app/lang/*"]
+    }
+  }
+}

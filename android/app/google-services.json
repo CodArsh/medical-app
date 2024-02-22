@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "892302063818",
+    "project_id": "oculo-web",
+    "storage_bucket": "oculo-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892302063818:android:af950430a0d1048ee95c33",
+        "android_client_info": {
+          "package_name": "com.oculo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892302063818-11r3n6pemcj79ipjrb98ojul11402l79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oculo",
+            "certificate_hash": "ad7f3bc8263a157e3b38c39ee317c843bc5d9275"
+          }
+        },
+        {
+          "client_id": "892302063818-fpvgfpulgf8vbelpku9o46krejuh5sdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oculo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "892302063818-h59tbg70l3lbsgqlj43ojfr35d89sa88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEiDEWO_5JuInMIO1nkvYXizWBlmyGx18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892302063818-3mb9drpq21k3kjo82mup42t3lia1gm3f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892302063818-amcdfrc051aqmge1fiprkqcqlq04k7ev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oculo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
